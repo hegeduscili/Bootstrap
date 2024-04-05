@@ -1,0 +1,27 @@
+.navbar-brand img{
+    width: 35px;
+}
+.full-width{
+    width: 100%;
+    height: auto;
+}
+
+.feature-item img{
+    width: 70px;
+    height: auto;
+}
+.subscribe{
+    background-image: url(img/subscribe.jpg);
+    background-size: cover;
+    background-position: bottom;
+}
+
+.brand-icon img{
+    width: 40px;
+    height: auto;
+}
+
+.blur-filter{
+    backdrop-filter: blur(8px);
+    background-color: rgba(255, 255, 255, 0.30);
+}
